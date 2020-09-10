@@ -1,0 +1,9 @@
+server:
+  port: 9001
+
+spring.main.allow-bean-definition-override: true
+
+okta:
+  oauth2:
+    issuer: https://dev-939681.okta.com/oauth2/default
+
